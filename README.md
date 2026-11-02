@@ -46,6 +46,4 @@
 
 <img src="assets/mascot.svg" width="120" alt="pixel mascot"/>
 
-<sub>Thanks for stopping by — the pixel mascot is original art made for this profile.</sub>
-
 </div>
