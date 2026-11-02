@@ -6,7 +6,6 @@
 **I build backends, databases and ML systems — and I like them reliable.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-bhagwatSparsh-181717?style=for-the-badge&logo=github)](https://github.com/bhagwatSparsh)
-![Profile views](https://komarev.com/ghpvc/?username=bhagwatSparsh&style=for-the-badge&color=2ea043)
 
 </div>
 
@@ -37,14 +36,13 @@
 | [**Transaction-Fraud-Outlier-Detector**](https://github.com/bhagwatSparsh/Transaction-Fraud-Outlier-Detector) | Outlier-based transaction fraud detection | Python |
 | [**financial-performance-dashboard**](https://github.com/bhagwatSparsh/financial-performance-dashboard) | Financial KPI dashboard | Power BI |
 
-## 📊 GitHub stats
+## 🌱 Currently
+
+- 🔭 Building production-style backends and database systems
+- 🧪 Exploring fairness and security in machine learning
+- 📚 Practising data structures and algorithms in C++ — see [Leetcode-DSA-questions](https://github.com/bhagwatSparsh/Leetcode-DSA-questions)
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bhagwatSparsh&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwatSparsh&layout=compact&theme=github_dark&hide_border=true)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhagwatSparsh&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=2ea043&point=ffffff)
 
 <img src="assets/mascot.svg" width="120" alt="pixel mascot"/>
 
